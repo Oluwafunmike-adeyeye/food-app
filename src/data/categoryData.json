@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Jollof Rice",
+      "image": "https://cdn-icons-png.flaticon.com/512/8344/8344124.png"
+    },
+    {
+      "id": 2,
+      "name": "Suya",
+      "image": "https://i.pinimg.com/1200x/15/fb/b6/15fbb60f0d926af3db704359ea13fec8.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Best Overall",
+      "image": "https://www.iconpacks.net/icons/1/free-best-icon-1364-thumb.png"
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "image": "https://cdn-icons-png.flaticon.com/512/6978/6978255.png"
+    },
+    {
+        "id": 5,
+        "name": "Shipped free",
+        "image": "https://cdn-icons-png.flaticon.com/512/7245/7245083.png"
+      },
+    {
+      "id": 6,
+      "name": "Shawarma",
+      "image": "https://cdn-icons-png.flaticon.com/512/5062/5062778.png"
+    },
+    {
+        "id": 7,
+        "name": "Latest Deals",
+        "image": "https://icon-library.com/images/partnership-icon-png/partnership-icon-png-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Fast Foods",
+        "image": "https://cdn-icons-png.flaticon.com/512/3703/3703377.png"
+    }
+
+  ]
+  

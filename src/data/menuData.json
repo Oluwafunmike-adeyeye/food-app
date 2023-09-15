@@ -1,0 +1,118 @@
+[
+    {
+      "id": 1,
+      "name": "Jollof Rice",
+      "category": "Rice",
+      "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/3-REFUEL-SPICY-RICE-MEAL.jpg",
+      "price": "N1,500"
+    },
+    {
+      "id": 2,
+      "name": "Fried Rice",
+      "category": "Rice",
+      "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/7-REFUEL-MAX-FRIED-RICE-MEAL.jpg",
+      "price": "N2,500"
+    },
+    {
+      "id": 3,
+      "name": "Spaghetti",
+      "category": "Rice",
+      "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_RefuelSpaghettiMeal.jpg",
+      "price": "N1,700"
+    },
+    {
+        "id": 4,
+        "name": "Rice and Beans",
+        "category": "Rice",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_RefuelRiceBeansMeal.jpg",
+        "price": "N1,200"
+      },
+    {
+      "id": 5,
+      "name": "Pounded Yam and Egusi Soup",
+      "category": "Swallow",
+      "image": "https://desirerecipes.com/wp-content/uploads/2022/02/image-24.jpg",
+      "price": "N3,000"
+    },
+    
+    {
+      "id": 6,
+      "name": "Amala and Egusi Soup",
+      "category": "Swallow",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/08/a5/a4/african-dish-amala-with.jpg",
+      "price": "N2,800"
+    },
+    {
+      "id": 7,
+      "name": "Amala and Ewedu Soup",
+      "category": "Swallow",
+      "image": "https://themedivoiceoau.com/wp-content/uploads/2022/11/images-93.jpeg",
+      "price": "N1,900"
+    },
+    {
+      "id": 8,
+      "name": "Amala and Efo Riro",
+      "category": "Swallow",
+      "image": "https://ocdn.eu/images/pulscms/YjI7MDA_/567e9059386e7848b3f43d6ba83a8e7b.jpeg",
+      "price": "N2,300"
+    },
+    {
+        "id": 9,
+        "name": "Spicy Yam and Chicken",
+        "category": "Chicken",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/10/CITIZENS-SPICY-YAM-MEAL-DARK.jpg",
+        "price": "N3,900"
+      },
+      {
+        "id": 10,
+        "name": "Fried Chicken and Chips",
+        "category": "Chicken",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_ExpressMealWithChips.jpg",
+        "price": "N2,950"
+      },
+      {
+        "id": 11,
+        "name": "Grilled Chicken",
+        "category": "Chicken",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_HalfFlameGrilled-1.jpg",
+        "price": "N5,100"
+      },
+      {
+        "id": 12,
+        "name": "Rostisserie Chicken",
+        "category": "Chicken",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_HalfRotisserie.jpg",
+        "price": "N6,000"
+      },
+      {
+        "id": 13,
+        "name": "Burger",
+        "category": "Snacks",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2022/08/ChickenRepublic_ChiefBurger_WHITE-scaled.jpg",
+        "price": "N2,400"
+      },
+      {
+        "id": 14,
+        "name": "Shawarma",
+        "category": "Snacks",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/WRAPSTAR-STAND-ALONE-DARK.jpg",
+        "price": "N2,100"
+      },
+      {
+        "id": 15,
+        "name": "Meat Pie",
+        "category": "Snacks",
+        "image": "https://www.chicken-republic.com/wp-content/uploads/2021/09/ChickenRepublic_MeatPies.jpg",
+        "price": "N800"
+      },
+      {
+        "id": 16,
+        "name": "Doughnut",
+        "category": "Snacks",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Zjvq54YfLk4978CkeBD2wOpfVPogw-5bUA&usqp=CAU",
+        "price": "N900"
+      }
+  ]
+  
+  
+  
